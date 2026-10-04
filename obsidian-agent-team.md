@@ -52,10 +52,7 @@ Agent Team은 반드시 Claude 공식 가이드라인을 따라야 합니다.
 ## Agent 구성
 - obsidian-team-leader.md
   -- 전체 플로우를 Orchestration 하는 팀 리더 역할
-  -- 사용자로부터 입력받은 주제를 기반으로 영상의 구조를 설계하고 생성
-  -- 먼저 사용자 주제를 기반으로 영상의 컨셉을 정하고 이미지 스타일을 결정
-  -- script-writer.md 에게 컨셉을 전달하고 영상의 script를 작성하도록 함 (스크립트는 씬별로 \n\n으로 구분)
-  -- script-writer.md 로 부터 스크립트를 받아서 Skill 들을 활용하여 영상을 생성
+  -- inbox 관리, 노트 연결, 인사이트 생성, Blog 글 작성 agent에게 작업을 나눠 주고 전체 흐름을 관리
 - inbox-manage-agent.md ← inbox를 관리하는 agent
 - note-connection-agent.md ← resource 폴더 내 노트들을 연결하고 관리하는 agent
 - insight-agent.md ← insight 생성 agent
